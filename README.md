@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhanushk1404/Leetcode/tree/master/0011-container-with-most-water) |
+| [0200-number-of-islands](https://github.com/Dhanushk1404/Leetcode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Dhanushk1404/Leetcode/tree/master/0200-number-of-islands) |
 | [1300-critical-connections-in-a-network](https://github.com/Dhanushk1404/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |
@@ -25,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Dhanushk1404/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Dhanushk1404/Leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Dhanushk1404/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Dhanushk1404/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
