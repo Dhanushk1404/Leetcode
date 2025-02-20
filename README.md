@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dhanushk1404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0200-number-of-islands](https://github.com/Dhanushk1404/Leetcode/tree/master/0200-number-of-islands) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhanushk1404/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dhanushk1404/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhanushk1404/Leetcode/tree/master/0011-container-with-most-water) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dhanushk1404/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhanushk1404/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dhanushk1404/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
