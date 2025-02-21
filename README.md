@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhanushk1404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Dhanushk1404/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Dhanushk1404/Leetcode/tree/master/0200-number-of-islands) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhanushk1404/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dhanushk1404/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dhanushk1404/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Dhanushk1404/Leetcode/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Dhanushk1404/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
