@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Dhanushk1404/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Dhanushk1404/Leetcode/tree/master/0200-number-of-islands) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhanushk1404/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Dhanushk1404/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dhanushk1404/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Dhanushk1404/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Simulation
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Dhanushk1404/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
