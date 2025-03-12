@@ -1,16 +1,16 @@
 class Solution {
     public int getLastMoment(int n, int[] left, int[] right) {
-        Arrays.sort(left);
-        Arrays.sort(right);
-        int min1=0,min2=0;
-        if(right.length>0)
+        int maxr=0;
+        int maxl=0;
+        for(int pos:left)
         {
-            min1=n-right[0];
+            maxl=Math.max(maxl,pos);
         }
-        if(left.length>0)
+        for(int pos:right)
         {
-            min2=left[left.length-1];
+            maxr=Math.max(maxr,n-pos);
         }
-        return Math.max(min1,min2);
+        return Math.max(maxl,maxr);
+        
     }
 }
