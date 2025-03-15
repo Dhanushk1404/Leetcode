@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dhanushk1404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Dhanushk1404/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Dhanushk1404/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Dhanushk1404/Leetcode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Dhanushk1404/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhanushk1404/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Dhanushk1404/Leetcode/tree/master/0047-permutations-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhanushk1404/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Dhanushk1404/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Dhanushk1404/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
