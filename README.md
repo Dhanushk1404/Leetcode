@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Dhanushk1404/Leetcode/tree/master/0200-number-of-islands) |
 | [1300-critical-connections-in-a-network](https://github.com/Dhanushk1404/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
@@ -81,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Brainteaser
 |  |
 | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Dhanushk1404/Leetcode/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Dhanushk1404/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Dhanushk1404/Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
