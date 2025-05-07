@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhanushk1404/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Dhanushk1404/Leetcode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
