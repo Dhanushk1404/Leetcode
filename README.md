@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dhanushk1404/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Dhanushk1404/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dhanushk1404/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Dhanushk1404/Leetcode/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhanushk1404/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -130,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Dhanushk1404/Leetcode/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Dhanushk1404/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
